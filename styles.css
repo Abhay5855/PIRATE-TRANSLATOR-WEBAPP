@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+.root {
+    --primary-color:#3B82F6;
+}
+
+.head {
+    font-family: 'Langar', cursive;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/checkerboard-cross.png");
+}
+
+
+.spa {
+    color:
+    #3B82F6;
+    
+}
+
+textarea {
+    display: block;
+    text-align: center;
+    width:80%;
+    margin: 2rem;
+    height: 5vh;
+    padding: 2rem;  
+    font-size: 20px;
+    color:blue;
+    background-color: #E5E7EB;
+    border: 2px solid #3B82F6;
+    font-family: 'Langar', cursive;
+
+
+}
+
+.panther {
+    width: 280px;
+    margin: auto;
+    border-radius: 50%;
+    display: block;
+}
+
+.butto {
+    
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 41%;
+    font-size: 25px;
+    border-radius: 8px;
+    border: 2px solid #3B82F6;
+}
+
+#output {
+    
+    display: block;
+    text-align: center;
+    width:80%;
+    margin: 2rem;
+    height: 5vh;
+    padding: 2rem;  
+    font-size: 20px;
+    color:blue;
+    background-color: #E5E7EB;
+    border: 2px solid #3B82F6;
+    font-family: 'Langar', cursive;
+
+}
